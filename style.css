@@ -1,0 +1,140 @@
+.navbar{
+    width:140 ;
+    height:800 ;
+    display: flex;
+    justify-content: center;
+    margin-top: -7%;
+ }
+ a{
+   text-decoration: none; 
+   margin: 10px 20px; 
+ }
+ ul{
+     list-style-type: none;
+ }
+ 
+
+   .btn1{
+ background-color: #778899;
+   }
+   
+
+   .true{
+        
+     right:200px ;
+     margin-bottom: 30px;
+     width: 300px;
+
+   }
+   .tp1{
+    text-align: center;
+    background-color: aliceblue;
+    
+
+}
+h4{
+    text-align: center;
+}
+.p{
+    text-align: center; 
+}
+
+.menu-global-ul{
+    display: flex;
+}
+
+header{
+    background-color:rgb(207, 250, 235);
+}
+.float-right{
+   
+    background-color: hsl(166, 92%, 43%);
+    border-radius: 60px;
+    display: flex;
+    
+    
+}
+
+.tp{
+ display: flex;
+}
+.exop{
+    
+    width: 500px;
+    text-align: center;
+    margin-left: 30%;
+}
+.tepsi{
+    width: 500px;
+    margin-left: 30%;
+    
+ 
+}
+.yoro{
+    background-color:rgb(207, 250, 235); ;
+}
+.imgp{
+    color:white;
+}
+.envoyer{
+    color: blue;
+}
+.html{
+    font-weight: bold;
+    font-size: 40px;
+}
+ .like{
+    width: 1200px;
+    
+ }
+
+footer{
+   background-color: rgb(218, 249, 239);
+}
+
+.float-right{
+    background-color: hwb(223 24% 57%);
+    margin-top: -17%;
+    width: 150px;
+    display: flex;
+    margin-left: 30%;
+}
+.mo{
+    width: 200px;
+    display: flex;
+    margin-left: 30%;
+    
+}
+.aliou{
+    margin-top: -25%;
+    width: 100px;
+    margin-left: -30px;
+}
+.bobo{
+    margin-top: 19px;
+    width: 170px;
+    display: flex;
+    margin-left: 30%
+
+}
+.bob{
+    margin-top: -16%;
+    width: 170px;
+    margin-left: 50%;
+    width:140 ;
+    margin-bottom:  -05%;
+}
+.bobi{
+    margin-top: -17%;
+    width: 170px;
+    display: flex;
+    margin-left: 70%
+    
+}
+.mmm{
+    margin-top: -18%;
+    width: 170px;
+    display: flex;
+    margin-left: 64%
+}
+
